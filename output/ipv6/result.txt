@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-18 08:21:16,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-06-18 22:15:30,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -227,8 +227,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=c505aab29000098934f
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
-邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
